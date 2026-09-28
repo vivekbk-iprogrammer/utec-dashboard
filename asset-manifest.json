@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/utec-dashboard/static/css/main.29d86528.css",
+    "main.js": "/utec-dashboard/static/js/main.471697d0.js",
+    "static/media/logo.jpeg": "/utec-dashboard/static/media/logo.9ee6c81bde979faa1861.jpeg",
+    "index.html": "/utec-dashboard/index.html",
+    "main.29d86528.css.map": "/utec-dashboard/static/css/main.29d86528.css.map",
+    "main.471697d0.js.map": "/utec-dashboard/static/js/main.471697d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d86528.css",
+    "static/js/main.471697d0.js"
+  ]
+}
