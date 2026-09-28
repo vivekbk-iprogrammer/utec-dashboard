@@ -11,7 +11,8 @@ import SettingsPage from './pages/SettingsPage';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    // REPLACE "your-repository-name" WITH your actual GitHub repo name!
+    <BrowserRouter basename="/utec-dashboard">
       <Routes>
         <Route element={<AppLayout />}>
           <Route path="/" element={<HomePage />} />
